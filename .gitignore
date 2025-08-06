@@ -1,0 +1,5 @@
+interval
+shv
+*.rpm
+x86_64
+.build*
